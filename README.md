@@ -1,16 +1,12 @@
 
-# Socket.IO Chat
+# BrenChat
 
-A simple chat demo for socket.io
+A simple chat for socket.io
 
 ## How to use
 
 ```
-$ cd socket.io
-$ npm install
-$ cd examples/chat
-$ npm install
-$ node .
+Sorry no code go to socket.io for code
 ```
 
 And point your browser to `http://localhost:3000`. Optionally, specify
